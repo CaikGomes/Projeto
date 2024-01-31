@@ -192,3 +192,19 @@ footer {
     left: 0px;
   }
 }
+
+.btn {
+  padding: 10px 8px;
+  color: white;
+  background: gray;
+  border: 1px solid #555;
+  border-radius: 5px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  background: black;
+}
